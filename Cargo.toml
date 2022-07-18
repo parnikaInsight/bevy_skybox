@@ -21,6 +21,6 @@ itertools = "0.10"
 
 [dev-dependencies]
 bevy_fly_camera = "0.7"
-#bevy_fly_camera = {path = "./bevy_fly_camera-master"} #0.8
+#bevy_fly_camera = {git = "https://github.com/paxsethorld/bevy_fly_camera.git"}
 bevy_log = "0.7.0"
 rand = "0.8"
